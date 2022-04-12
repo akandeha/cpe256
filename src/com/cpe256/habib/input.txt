@@ -1,0 +1,2 @@
+1:1:0:zzzzaaaaaacccccccc
+[Shift Count]:[Encrypt/De-crypt]:[Alphabet 0-4]:Plain text/Cipher Text
