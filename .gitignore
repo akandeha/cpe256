@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+githublink.txt
+/src/com/cpe256/habib/Test.java
