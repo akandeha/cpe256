@@ -1,4 +1,4 @@
-package com.cpe256.habib;
+package com.cpe256.caesarcipher;
 
 import java.io.File;
 import java.io.FileNotFoundException;

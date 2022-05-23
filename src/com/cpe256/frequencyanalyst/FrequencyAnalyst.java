@@ -1,4 +1,4 @@
-package com.cpe256.habib;
+package com.cpe256.frequencyanalyst;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -11,7 +11,7 @@ public class FrequencyAnalyst {
         Scanner input = new Scanner(new File(args[0]));
         String cypher = input.nextLine();
         HashMap<Character, Integer> holder = new HashMap<>();
-        Integer count = 0;
+        Integer count;
         for(int i = 0;i < cypher.length();i++){
             count = holder.get(cypher.charAt(i));
             if(count != null) {
